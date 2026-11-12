@@ -5,5 +5,6 @@ paginas = [
     st.Page("src/atv2.py", title="Ativ 2"),
     st.Page("src/atv3.py", title="Ativ 3"),
     st.Page("src/atv4.py", title="Ativ 4"),
+    st.Page("src/atv5.py", title="Ativ 5"),
 ]
 st.navigation(paginas).run()
